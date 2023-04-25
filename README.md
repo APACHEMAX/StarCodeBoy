@@ -1,13 +1,13 @@
-### : welcome
-<div align="center">
-  <img src="https://media.giphy.com/media/Rsp9jLIy0VZOKlZziw/giphy.gif" width="40" height="50"/>
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/brsEO1JayBVja/giphy.gif" width="175"/>
+  <h1>
+  Hey!
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
 </div>
 
-
----
-
 <div id ="main" align="center">
-  <img src="https://media.giphy.com/media/l46CsTPetihC1rX9K/giphy.gif" width="600" height="350"/>
+  <img src="https://media.giphy.com/media/l46CsTPetihC1rX9K/giphy.gif" width="650" height="400"/>
 </div>
 
 

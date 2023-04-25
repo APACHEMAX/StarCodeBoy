@@ -1,14 +1,13 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/bJ4TVNYNUympPgcpem/giphy.gif" width="150"/>
+### : welcome
+<div align="center">
+  <img src="https://media.giphy.com/media/Rsp9jLIy0VZOKlZziw/giphy.gif" width="40" height="50"/>
 </div>
-<div id="header" align="center">
-  <img src="https://komarev.com/ghpvc/?username=StarCodeBoy&style=flat-square&color=blue" class="centerImage" alt="CH Logo"/>
-</div>
+
 
 ---
 
-<div align="center">
-  <img src="https://media.giphy.com/media/LaVp0AyqR5bGsC5Cbm/giphy.gif" width="600" height="350"/>
+<div id ="main" align="center">
+  <img src="https://media.giphy.com/media/l46CsTPetihC1rX9K/giphy.gif" width="600" height="350"/>
 </div>
 
 

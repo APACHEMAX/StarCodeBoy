@@ -14,7 +14,7 @@
 ---
 
 ### :man_technologist: About Me:
-I am a Backend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
+I am a Java Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
 - :telescope: I’m working as a Backend Developer and develop a service architecture for web applications.
 
 - :zap: In my free time, I play basketball and read tech articles.
